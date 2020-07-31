@@ -1,0 +1,43 @@
+_repo: Untuvan-avioliitto_62695
+_version: 0.0.1
+alternative_title: Le mariage de Chiffon. Finnish
+contributor:
+  translator:
+    agent_name: Soini, Elsa
+    birthdate: 1893
+    deathdate: 1952
+    gutenberg_agent_id: '49810'
+    url: http://www.gutenberg.org/2009/agents/49810
+    wikipedia: https://fi.wikipedia.org/wiki/Elsa_Soini
+creator:
+  author:
+    agent_name: Gyp
+    aliases:
+    - Martel de Janville, Sibylle-Gabrielle-Marie-Antoinette de Riquetti de Mirabeau,
+      comtesse de
+    - Mirabeau, Sibylle-Gabrielle-Marie-Antoinette de Riquetti de, comtesse de Martel
+      de Janville
+    - Riquetti de Mirabeau, Sibylle-Gabrielle-Marie-Antoinette de, comtesse de Martel
+      de Janville
+    birthdate: 1849
+    deathdate: 1932
+    gutenberg_agent_id: '38133'
+    url: http://www.gutenberg.org/2009/agents/38133
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Gyp
+    - https://en.wikipedia.org/wiki/Sibylle_Riqueti_de_Mirabeau
+description: ''
+gutenberg_issued: '2020-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62695'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into Finnish'
+- !lcc 'PQ'
+- GITenberg
+title: Untuvan avioliitto
+url: http://www.gutenberg.org/ebooks/62695

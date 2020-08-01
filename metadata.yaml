@@ -1,5 +1,5 @@
 _repo: Untuvan-avioliitto_62695
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Le mariage de Chiffon. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '49810'
     url: http://www.gutenberg.org/2009/agents/49810
     wikipedia: https://fi.wikipedia.org/wiki/Elsa_Soini
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gyp
@@ -27,6 +30,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Gyp
     - https://en.wikipedia.org/wiki/Sibylle_Riqueti_de_Mirabeau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62695#Untuvan-avioliitto
 gutenberg_issued: '2020-07-18'
 gutenberg_type: Text
 identifiers:
